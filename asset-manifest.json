@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/StephenRenda/Tic_Tac_Toe_ES6/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/StephenRenda/Tic_Tac_Toe_ES6/static/js/main.c2b045a6.chunk.js",
+    "main.js.map": "/StephenRenda/Tic_Tac_Toe_ES6/static/js/main.c2b045a6.chunk.js.map",
+    "runtime-main.js": "/StephenRenda/Tic_Tac_Toe_ES6/static/js/runtime-main.4ea59b44.js",
+    "runtime-main.js.map": "/StephenRenda/Tic_Tac_Toe_ES6/static/js/runtime-main.4ea59b44.js.map",
+    "static/css/2.712fe445.chunk.css": "/StephenRenda/Tic_Tac_Toe_ES6/static/css/2.712fe445.chunk.css",
+    "static/js/2.355cba83.chunk.js": "/StephenRenda/Tic_Tac_Toe_ES6/static/js/2.355cba83.chunk.js",
+    "static/js/2.355cba83.chunk.js.map": "/StephenRenda/Tic_Tac_Toe_ES6/static/js/2.355cba83.chunk.js.map",
+    "index.html": "/StephenRenda/Tic_Tac_Toe_ES6/index.html",
+    "precache-manifest.1657c5f47e0ba67fbd3621129ffc51e6.js": "/StephenRenda/Tic_Tac_Toe_ES6/precache-manifest.1657c5f47e0ba67fbd3621129ffc51e6.js",
+    "service-worker.js": "/StephenRenda/Tic_Tac_Toe_ES6/service-worker.js",
+    "static/css/2.712fe445.chunk.css.map": "/StephenRenda/Tic_Tac_Toe_ES6/static/css/2.712fe445.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/StephenRenda/Tic_Tac_Toe_ES6/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.355cba83.chunk.js.LICENSE.txt": "/StephenRenda/Tic_Tac_Toe_ES6/static/js/2.355cba83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ea59b44.js",
+    "static/css/2.712fe445.chunk.css",
+    "static/js/2.355cba83.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c2b045a6.chunk.js"
+  ]
+}
